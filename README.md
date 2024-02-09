@@ -9,13 +9,13 @@ I am Richa, a Computer Science student and enthusiast at [IIT Roorkee](https://w
 
 ⚡ **Hackathons**
 - 2x MIT Bitcoin Hackathon Winner (Sia, CKB)
-- Ethernals finalist
-- 2x Ethindia Winner (Connext, Filecoin)
-- EthParis winner (WalletConnect, TheGraph)
+- Ethernals [finalist](https://devfolio.co/projects/easyorders-0700)
+- 2x Ethindia Winner ([Connext](https://devfolio.co/projects/refinext-6247), [Filecoin](https://devfolio.co/projects/review-pulse-c1a5)
+- EthParis winner [(WalletConnect, TheGraph)](https://ethglobal.com/showcase/zkmask-0x1z4)
 - Inter IIT Gold Medallist 
 
 🏆 **Awards**
-- Adobe India Women In Tech Scholar 2023
+- Adobe India Women In Tech [Scholar](https://www.adobe.com/in/lead/creativecloud/women-in-technology/scholars.html) 2023
 - Excellence in ICT Award 2023 IITR 
 - IITRHF Excellence Award 2022
 

@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+I am Richa, a Computer Science student and enthusiast at [IIT Roorkee](https://www.iitr.ac.in/). Born into the blockchain (mainly Ethereum as yet) ecosystem in 2022, here's a snapshot of my journey so far:
+- Former Smart contract developer [@Instadapp](https://instadapp.io/)
+- Polygon Builder's Track [Fellow](https://pf-2022.devfolio.co/fellows) 2022
+- Ethindia Builder's Track [Fellow](https://eif3.devfolio.co/fellows) 2022
+- Summer student at University of Zurich ([Deep Dive into Blockchain Course](https://www.linkedin.com/posts/uzh-oec_universityofzurich-oecuzh-summerschools-activity-6950350215946117120-68ap?utm_source=share&utm_medium=member_android))
+- Head @[Blockchain Society IIT Roorkee](https://blocsoc.iitr.ac.in/)
+
+⚡ **Hackathons**
+- 2x MIT Bitcoin Hackathon Winner (Sia, CKB)
+- Ethernals finalist
+- 2x Ethindia Winner (Connext, Filecoin)
+- EthParis winner (WalletConnect, TheGraph)
+- Inter IIT Gold Medallist 
+
+🏆 **Awards**
+- Adobe India Women In Tech Scholar 2023
+- Excellence in ICT Award 2023 IITR 
+- IITRHF Excellence Award 2022
+
+🔭 **Learning**
+- ZK, Ethereum Core, CS Fundamentals and more.
+
+🔗 **Connect**
+- [Twitter](https://twitter.com/richa3112)
+
 <!--
 **Richa-iitr/Richa-iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

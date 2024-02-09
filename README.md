@@ -20,7 +20,7 @@ I am Richa, a Computer Science student and enthusiast at [IIT Roorkee](https://w
 - IITRHF Excellence Award 2022
 
 🔭 **Learning**
-- ZK, Ethereum Core, CS Fundamentals and more.
+- ZK, Cryptography, Ethereum Core, CS Fundamentals and more.
 
 🔗 **Connect**
 - [Twitter](https://twitter.com/richa3112)

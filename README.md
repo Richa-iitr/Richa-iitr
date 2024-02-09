@@ -10,7 +10,7 @@ I am Richa, a Computer Science student and enthusiast at [IIT Roorkee](https://w
 ⚡ **Hackathons**
 - 2x MIT Bitcoin Hackathon Winner (Sia, CKB)
 - Ethernals [finalist](https://devfolio.co/projects/easyorders-0700)
-- 2x Ethindia Winner ([Connext](https://devfolio.co/projects/refinext-6247), [Filecoin](https://devfolio.co/projects/review-pulse-c1a5)
+- 2x Ethindia Winner ([Connext](https://devfolio.co/projects/refinext-6247), [Filecoin](https://devfolio.co/projects/review-pulse-c1a5))
 - EthParis winner [(WalletConnect, TheGraph)](https://ethglobal.com/showcase/zkmask-0x1z4)
 - Inter IIT Gold Medallist 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Richa, a Computer Science student and enthusiast at [IIT Roorkee](https://www.iitr.ac.in/). Born into the blockchain (mainly Ethereum as yet) ecosystem in 2022, here's a snapshot of my journey so far:
+I am iri, a Computer Science student and enthusiast at [IIT Roorkee](https://www.iitr.ac.in/). Born into the blockchain (mainly Ethereum as yet) ecosystem in 2022, here's a snapshot of my journey so far:
 - Former Smart contract developer [@Instadapp](https://instadapp.io/)
 - Polygon Builder's Track [Fellow](https://pf-2022.devfolio.co/fellows) 2022
 - Ethindia Builder's Track [Fellow](https://eif3.devfolio.co/fellows) 2022

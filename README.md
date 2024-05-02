@@ -14,11 +14,6 @@ I am iri, a Computer Science student and enthusiast at [IIT Roorkee](https://www
 - EthParis winner [(WalletConnect, TheGraph)](https://ethglobal.com/showcase/zkmask-0x1z4)
 - Inter IIT Gold Medallist 
 
-🏆 **Awards**
-- Adobe India Women In Tech [Scholar](https://www.adobe.com/in/lead/creativecloud/women-in-technology/scholars.html) 2023
-- Excellence in ICT Award 2023 IITR 
-- IITRHF Excellence Award 2022
-
 🔭 **Learning**
 - ZK, Cryptography, Ethereum Core, CS Fundamentals and more.
 

@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am iri, a Computer Science student and enthusiast at [IIT Roorkee](https://www.iitr.ac.in/). Born into the blockchain (mainly Ethereum as yet) ecosystem in 2022, here's a snapshot of my journey so far:
+I am iri. Born into the blockchain (mainly Ethereum as yet) ecosystem in 2022, here's a snapshot of my journey so far:
 - @ethereum protocol fellow
 - CSE [IIT Roorkee](https://www.iitr.ac.in/)'24
 - Former Smart contract developer [@Instadapp](https://instadapp.io/)
 - Polygon Builder's Track [Fellow](https://pf-2022.devfolio.co/fellows) 2022
 - Ethindia Builder's Track [Fellow](https://eif3.devfolio.co/fellows) 2022
 - Summer student at University of Zurich ([Deep Dive into Blockchain Course](https://www.linkedin.com/posts/uzh-oec_universityofzurich-oecuzh-summerschools-activity-6950350215946117120-68ap?utm_source=share&utm_medium=member_android))
-- Head @[Blockchain Society IIT Roorkee](https://blocsoc.iitr.ac.in/)
+- Head @[Blockchain Society IIT Roorkee](https://blocsoc.iitr.ac.in/)'24
 
 ⚡ **Hackathons**
 - 2x MIT Bitcoin Hackathon Winner (Sia, CKB)
